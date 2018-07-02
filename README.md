@@ -18,5 +18,6 @@ Game Starts with 0 score and 3 lives
 6) If player is bitten by bug when he has zero life then the game restarts(i.e 0 score and 3 lives)
 
 ## Acknowledgement
+Starter code taken from the repo as given instructions |
 General idea of implementation taken from:
 [Medium Blog](https://medium.com/letsboot/classic-arcade-game-with-js-5687e4125169)
